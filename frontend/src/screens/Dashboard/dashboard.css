@@ -1,0 +1,31 @@
+.dash table {
+  width: 100%;
+  table-layout: fixed;
+  color: red;
+}
+
+.dash th {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.dash td {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.column-name {
+  width: 40%;
+}
+.column-code {
+  width: 20%;
+}
+.column-class {
+  width: 20%;
+}
+.column-gender {
+  width: 20%;
+}
+.column-email {
+  width: 40%;
+}
